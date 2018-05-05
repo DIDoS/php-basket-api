@@ -20,7 +20,7 @@ latest stable PHP version whenever possible.
 
 ## SECURITY ADVICE
 If you want to store the output of this library into a database or something, please make sure that your
-application takes care of sql injection, cross-site-scripting (xss) and so on. There is no build in protection
+application takes care of sql injection, cross-site-scripting (xss) and so on. There is no built-in protection
 by now.
 
 ## LICENSE
